@@ -1,5 +1,5 @@
 ---
-subcategory: "EC2"
+subcategory: "EC2 (Elastic Compute Cloud)"
 layout: "aws"
 page_title: "AWS: aws_ec2_local_gateway_virtual_interface_groups"
 description: |-

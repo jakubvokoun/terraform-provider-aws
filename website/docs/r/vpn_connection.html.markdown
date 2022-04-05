@@ -1,5 +1,5 @@
 ---
-subcategory: "VPC"
+subcategory: "VPN (Virtual Private Network)"
 layout: "aws"
 page_title: "AWS: aws_vpn_connection"
 description: |-

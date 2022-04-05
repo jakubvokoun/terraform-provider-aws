@@ -1,5 +1,5 @@
 ---
-subcategory: "EC2"
+subcategory: "EBS (Elastic Block Store)"
 layout: "aws"
 page_title: "AWS: aws_volume_attachment"
 description: |-

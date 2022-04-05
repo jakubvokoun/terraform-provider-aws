@@ -1,5 +1,5 @@
 ---
-subcategory: "VPC"
+subcategory: "EBS (Elastic Block Store)"
 layout: "aws"
 page_title: "AWS: aws_ebs_volumes"
 description: |-
