@@ -1,5 +1,5 @@
 ---
-subcategory: "EBS (Elastic Block Store)"
+subcategory: "EBS (EC2)"
 layout: "aws"
 page_title: "AWS: aws_ebs_snapshot_copy"
 description: |-

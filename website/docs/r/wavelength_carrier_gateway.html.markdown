@@ -1,5 +1,5 @@
 ---
-subcategory: "EC2 (Elastic Compute Cloud)"
+subcategory: "Wavelength"
 layout: "aws"
 page_title: "AWS: aws_ec2_carrier_gateway"
 description: |-

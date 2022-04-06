@@ -1,5 +1,5 @@
 ---
-subcategory: "EC2 (Elastic Compute Cloud)"
+subcategory: "Transit Gateway"
 layout: "aws"
 page_title: "AWS: aws_ec2_transit_gateway_connect_peer"
 description: |-

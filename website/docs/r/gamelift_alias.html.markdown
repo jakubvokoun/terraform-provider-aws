@@ -1,5 +1,5 @@
 ---
-subcategory: "Gamelift"
+subcategory: "GameLift"
 layout: "aws"
 page_title: "AWS: aws_gamelift_alias"
 description: |-
