@@ -1,5 +1,5 @@
 ---
-subcategory: "VPN (Virtual Private Network)"
+subcategory: "VPN (Client)"
 layout: "aws"
 page_title: "AWS: aws_ec2_client_vpn_authorization_rule"
 description: |-

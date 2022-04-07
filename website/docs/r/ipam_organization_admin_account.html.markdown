@@ -1,5 +1,5 @@
 ---
-subcategory: "VPC (Virtual Private Cloud)"
+subcategory: "VPC IPAM (IP Address Manager)"
 layout: "aws"
 page_title: "AWS: aws_vpc_ipam_organization_admin_account"
 description: |-
