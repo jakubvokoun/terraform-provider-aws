@@ -1,5 +1,5 @@
 ---
-subcategory: "ELB (Elastic Load Balancing) Classic"
+subcategory: "ELB Classic"
 layout: "aws"
 page_title: "AWS: aws_elb_attachment"
 description: |-

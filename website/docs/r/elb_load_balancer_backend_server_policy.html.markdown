@@ -1,5 +1,5 @@
 ---
-subcategory: "ELB (Elastic Load Balancing) Classic"
+subcategory: "ELB Classic"
 layout: "aws"
 page_title: "AWS: aws_load_balancer_backend_server_policy"
 description: |-

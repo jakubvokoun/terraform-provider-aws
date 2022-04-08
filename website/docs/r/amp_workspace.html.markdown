@@ -1,5 +1,5 @@
 ---
-subcategory: "AMP (Managed Service for Prometheus)"
+subcategory: "AMP (Managed Prometheus)"
 layout: "aws"
 page_title: "AWS: aws_prometheus_workspace"
 description: |-
